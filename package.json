@@ -1,0 +1,32 @@
+{
+  "name": "jotai-store-enhanced",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "farm start",
+    "start": "farm start",
+    "build": "farm build",
+    "preview": "farm preview",
+    "clean": "farm clean"
+  },
+  "dependencies": {
+    "clsx": "^1.2.1",
+    "jotai": "^2.8.3",
+    "jotai-optics": "^0.4.0",
+    "optics-ts": "^2.4.1",
+    "react": "18",
+    "react-dom": "18"
+  },
+  "devDependencies": {
+    "@farmfe/cli": "^1.0.1",
+    "@farmfe/core": "^1.1.1",
+    "@farmfe/plugin-react": "^1.0.1",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "autoprefixer": "^10.4.19",
+    "core-js": "^3.36.1",
+    "postcss": "^8.4.38",
+    "prettier": "^3.3.1",
+    "react-refresh": "^0.14.0",
+    "tailwindcss": "^3.4.4"
+  }
+}
